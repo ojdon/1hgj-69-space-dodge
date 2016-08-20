@@ -176,7 +176,7 @@ function titledraw()
 	
 	local titletxt = "onehourgamejam"
 	local circletxt = ""
-	local squaretxt = "doge the oncoming asteroids"
+	local squaretxt = "dodge the oncoming asteroids"
 	local squaretxt2 = ""
 	local starttxt = "press up to start/launch"
 	
